@@ -9,12 +9,3 @@
     ]
   }
 }]
-
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "jp.co.fujii_kogei.gforce",
-        "sha256_cert_fingerprints": ["75:64:B2:57:16:C9:F4:D2:5B:72:72:FE:5E:11:DE:95:AC:7C:3F:C1:03:E2:80:86:0D:79:A6:55:16:5B:65:B3"]
-      }
-    }]
