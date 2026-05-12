@@ -1,20 +1,22 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "jp.co.fujii_kogei.obd2gtdash",
-    "sha256_cert_fingerprints": [
-      "1B:AF:7D:C4:73:91:5D:92:7C:FC:30:01:92:AA:74:0D:1E:92:CC:0C:D2:24:A0:A6:00:62:1A:95:39:CD:96:64"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.co.fujii_kogei.obd2gtdash",
+      "sha256_cert_fingerprints": [
+        "1B:AF:7D:C4:73:91:5D:92:7C:FC:30:01:92:AA:74:0D:1E:92:CC:0C:D2:24:A0:A6:00:62:1A:95:39:CD:96:64"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "jp.co.fujii_kogei.timeAttacker",
+      "sha256_cert_fingerprints": [
+        "98:13:9D:A2:70:B8:39:83:80:D8:7D:DB:10:B5:E2:F5:F2:6F:3F:03:CD:B0:33:92:3E:DE:23:FC:0B:07:91:B4"
+      ]
+    }
   }
-}]
-
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "jp.co.fujii_kogei.timeAttacker",
-        "sha256_cert_fingerprints": ["98:13:9D:A2:70:B8:39:83:80:D8:7D:DB:10:B5:E2:F5:F2:6F:3F:03:CD:B0:33:92:3E:DE:23:FC:0B:07:91:B4"]
-      }
-    }]
-
+]
